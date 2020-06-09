@@ -1,0 +1,190 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.web {
+	/*border: dashed;*/
+	padding: 30px 0 0 30px;
+}
+
+.header {
+	/*border: dotted;*/
+	width: 100%;
+	float: left;
+}
+
+.name_of_web {
+	/*border: dashed;*/
+	float: left;
+	width: 30%;
+	color: green;
+	font-size: 30px;
+}
+
+.transport {
+	/*border: dashed;*/
+	width: 17%;
+	float: left;
+	margin-top: 20px;
+}
+
+.icon_transport {
+	/*border: dashed;*/
+	width: 15%;
+	float: left;
+}
+
+.text_transport {
+	font-size: 12px;
+	font-weight: bold;
+	/*border: dashed;*/
+	width: 80%;
+	float: left;
+}
+
+.free_transport {
+	font-style: bold;
+}
+
+.imgpro {
+	width: 30px;
+	height: 30px;
+}
+
+.cart {
+	width: 15%;
+	height: 35px;
+	float: left;
+	background-color: orange;
+	border-radius: 30px;
+	margin-top: 15px;
+	margin-left: 30px;
+}
+
+.menu {
+	border-radius: 15px;
+	margin-top: 20px;
+	background-color: green;
+	width: 100%;
+	float: left;
+}
+
+.menu ul li {
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	list-style-type: none;
+	float: left;
+	padding: 15px 30px 15px 30px;
+}
+
+.menu ul li:hover {
+	background-color: orange;
+}
+
+.categories {
+	float: left;
+	margin-top: 50px;
+	width: 22%;
+}
+
+.categories p {
+	font-size: 20px;
+	border-radius: 15px;
+	padding: 8px 0 8px 50px;
+	background-color: green;
+	color: white;
+}
+
+.categories ul li {
+	list-style-type: kannada;
+	padding-left: 15px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+.categories ul li:hover {
+	color: orange;
+	font-size: 20px;
+}
+
+.background {
+	width: 70%;
+	float: left;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+
+.background img {
+	border-radius: 15px;
+}
+
+.rice {
+	float: left;
+	margin-top: 50px;
+	width: 100%;
+}
+
+.rice p {
+	font-size: 20px;
+	float: left;
+	width: 10%;
+	background-color: green;
+	color: white;
+	padding: 5px 0 5px 20px;
+	border-radius: 15px;
+}
+
+.list_rice {
+	margin-top: 10px;
+	float: left;
+	width: 100%;
+	height: 300px;
+}
+
+.footer {
+	margin-top: 30px;
+	height: 300px;
+	float: left;
+	width: 100%;
+	background-color: green;
+}
+
+.contact {
+	float: left;
+	padding: 50px 0 0 100px;
+	width: 35%;
+}
+
+.facebook {
+	padding: 50px 0 0 0;
+	width: 30%;
+	float: left;
+}
+
+.map {
+	padding: 50px 0 0 0;
+	width: 25%;
+	float: left;
+}
+
+#chitietmon1 {
+	float: left;
+	height: 400px;
+	width: 50%;
+	content: url(images.jpeg);
+}
+
+#chitietmon2 {
+	float: left;
+	height: 400px;
+	width: 50%;
+	/*background: blue;*/
+	border-radius: 5px;
+}
+
+.center {
+	text-align: center;
+	position: relative;
+}
